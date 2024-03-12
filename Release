@@ -1,0 +1,37 @@
+Architectures: iphoneos-arm iphoneos-arm64
+Codename: nyamisty
+Components: main
+Date: Sun, 12 Nov 2023 07:35:36 +0000
+Description: Nope ;)
+Label: Misty
+Origin: Misty's repository
+Suite: stable
+Version: 1.0
+MD5Sum:
+ 53c2682f496f78c508815ab8c0ea4337            55275 Packages
+ a8dc0ecfc4c4c2b3030a8c797f01934b            14642 Packages.bz2
+ a1de8316131498bfb70b3a6c5c1260d8            16117 Packages.gz
+ 021c6dbc16b0832c3b5e2b2496742cc2            14048 Packages.xz
+ 41f809bc81f0d4bf386d1358a6e106b0            14051 Packages.zst
+ e993562cf904f84bba8eecac5206b7ab              205 Release
+SHA1:
+ e2d17594075c69dd5923de374fbb894e43f540b5            55275 Packages
+ 8f08cdf0c04ef628dd6749185546a18b089addb9            14642 Packages.bz2
+ 4e2ac075daedcb4ba0f33ef945f59deea98785be            16117 Packages.gz
+ ca2518848e57c26a7b785bcfc515743e677fbd46            14048 Packages.xz
+ 5c3c13ba3302ed2bb8d29e8b01f123e398eafbcd            14051 Packages.zst
+ 13eec5c82e1347d1eaff9624413a0343ed91be4d              205 Release
+SHA256:
+ 30199b29b715950e85730dc69092850944ddac87960cf9586e82d9f6452ee0bf            55275 Packages
+ 3dde432d936caa3ad3d5ac615743b628d0828ce2b1d0bac05fe4da686a98e8a5            14642 Packages.bz2
+ 618ac4c61851d89e89e341efa9224b653268af5dbb5bec8e0d4e6b6d14f1520c            16117 Packages.gz
+ 443dbd83936dba56dd830495f528131633128598cf69fc582d4cc0012d3052e5            14048 Packages.xz
+ b34a973153b43bc6c91bceb1edeaa04323f6d9e4a7865cb0461a81b8ba8b0a50            14051 Packages.zst
+ d22752dcb27e85352792434a374950933b671d4af903c777313d93f481b834ee              205 Release
+SHA512:
+ ef73dd471398619b25004ccba9a8d2036a5fce90e1442d0ea01375fa2f8efab4f1d44af67207896563cd2cb1835b45c264f1d6fb3140eb5552b9ea0b2f0c4385            55275 Packages
+ 7ce5498da508f8f186e497245226abbb6b21935a40ed849bf5d7dcd6bea2c2582da2bd8a33d1b2214c06613111f75b93601ec9bb3d43b4412461796d2fe1fdd2            14642 Packages.bz2
+ d56d2814d525324bc45db1c5c18ac2aec7e44db27c2229595f90f72a3712ba3f004eca2d9834d58ba1d956794607617ca2b6c2c19f1505e19528fd57c4166049            16117 Packages.gz
+ b1031d599bbd707f44e8e28a43b363ba3a1ea20c18fef7bfd51fb662026ca6f9779a0c11293b673191632593c6dfa27beacce274cafda6e270fa3b23b4092b0a            14048 Packages.xz
+ 52ad64197d12264a2fc7dae6719740fb9e5051c3ef1171d50137b46735700e7b35356a628d435eb99ba89244200a0184d837225026f52a16a30608222b00e29a            14051 Packages.zst
+ 2e038367a226c87e182f8fcef682d7e9a10cbbdc8a82e3277d3ca402efd54fd9d606d7c95cb73827ee804a647781059d75f9052319607342ed0fd107e1840aba              205 Release
