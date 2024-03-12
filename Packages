@@ -5,7 +5,7 @@ Section: System
 Maintainer: Misty
 Installed-Size: 272
 Depends:
-Filename: ./debians/com.comex.attachanddetach_0.0.2_iphoneos-arm.deb
+Filename: ./deb/com.comex.attachanddetach_0.0.2_iphoneos-arm.deb
 Size: 7702
 MD5sum: 2bbb907b1c67d93c6e9163c31d221bdb
 SHA1: cd482cb39444d5d28f7320924cbadc568ce334da
@@ -23,7 +23,7 @@ Section: System
 Maintainer: Misty
 Installed-Size: 592
 Depends:
-Filename: ./debians/com.comex.attachanddetach_0.0.3_iphoneos-arm.deb
+Filename: ./deb/com.comex.attachanddetach_0.0.3_iphoneos-arm.deb
 Size: 12416
 MD5sum: b373906ff542c8899b4a2227cf6794b3
 SHA1: 85c07fa57b823b5f651e6b0772215e730c901765
@@ -43,7 +43,7 @@ Installed-Size: 284
 Pre-Depends: firmware (>= 8.0)
 Depends: libflex
 Conflicts: com.dgh0st.flexall, gg.gh0stbyte.flexivator, com.shmoopillic.flexible, applebetas.ios.tweak.devtools.flexgesture, com.creaturecoding.flexer, com.lacertosusrepo.flex4me, me.nepeta.flexxx, com.ipadkid.flexit, com.qiop1379.flexbar, com.leftyfl1p.reflex
-Filename: ./debians/com.pantsthief.flexing_1.5.0+rootful_iphoneos-arm.deb
+Filename: ./deb/com.pantsthief.flexing_1.5.0+rootful_iphoneos-arm.deb
 Size: 17908
 MD5sum: 4bc9f02ca14b4812d058bbf43a56b85b
 SHA1: 527be46096c546ef597f033fb711bb29c212a5d5
@@ -64,7 +64,7 @@ Installed-Size: 156
 Pre-Depends: firmware (>= 8.0)
 Depends: libflex
 Conflicts: com.dgh0st.flexall, gg.gh0stbyte.flexivator, com.shmoopillic.flexible, applebetas.ios.tweak.devtools.flexgesture, com.creaturecoding.flexer, com.lacertosusrepo.flex4me, me.nepeta.flexxx, com.ipadkid.flexit, com.qiop1379.flexbar, com.leftyfl1p.reflex
-Filename: ./debians/com.pantsthief.flexing_1.5.0+roothide_iphoneos-arm64e.deb
+Filename: ./deb/com.pantsthief.flexing_1.5.0+roothide_iphoneos-arm64e.deb
 Size: 10416
 MD5sum: bbeaaa13b17b38036791f6ef56162149
 SHA1: 45660aaca448513925c386004f9600f6839d0fe9
@@ -85,7 +85,7 @@ Installed-Size: 284
 Pre-Depends: firmware (>= 8.0)
 Depends: libflex
 Conflicts: com.dgh0st.flexall, gg.gh0stbyte.flexivator, com.shmoopillic.flexible, applebetas.ios.tweak.devtools.flexgesture, com.creaturecoding.flexer, com.lacertosusrepo.flex4me, me.nepeta.flexxx, com.ipadkid.flexit, com.qiop1379.flexbar, com.leftyfl1p.reflex
-Filename: ./debians/com.pantsthief.flexing_1.5.0+rootless_iphoneos-arm64.deb
+Filename: ./deb/com.pantsthief.flexing_1.5.0+rootless_iphoneos-arm64.deb
 Size: 18072
 MD5sum: 2ddd61c71ea654b14fbe2873889f386d
 SHA1: 566f60b469718433e4796c213713312d62303a68
@@ -104,7 +104,7 @@ Section: System
 Maintainer: akusio, Misty
 Installed-Size: 336
 Depends: mobilesubstrate, applist, preferenceloader, com.comex.attachanddetach, Firmware(>=12.0)
-Filename: ./debians/jp.akusio.kernbypass_0.0.3-10+debug_iphoneos-arm.deb
+Filename: ./deb/jp.akusio.kernbypass_0.0.3-10+debug_iphoneos-arm.deb
 Size: 145942
 MD5sum: 679a3f196e8d83535b3c5db1290cb2d3
 SHA1: fdc311c807e4f4dbe0255d3e772fae45b5e9f151
@@ -122,7 +122,7 @@ Section: System
 Maintainer: akusio, Misty
 Installed-Size: 340
 Depends: mobilesubstrate, applist, preferenceloader, com.comex.attachanddetach, Firmware(>=12.0)
-Filename: ./debians/jp.akusio.kernbypass_0.0.3-26+debug_iphoneos-arm.deb
+Filename: ./deb/jp.akusio.kernbypass_0.0.3-26+debug_iphoneos-arm.deb
 Size: 146816
 MD5sum: d6eebaad4311108b0e7fa8f05962fe8f
 SHA1: eed8b44b413458bd7360f53f240d7ffecbc6a37b
@@ -140,7 +140,7 @@ Section: System
 Maintainer: akusio, Misty
 Installed-Size: 336
 Depends: mobilesubstrate, applist, preferenceloader, com.comex.attachanddetach, Firmware(>=12.0)
-Filename: ./debians/jp.akusio.kernbypass_0.0.3-9+debug_iphoneos-arm.deb
+Filename: ./deb/jp.akusio.kernbypass_0.0.3-9+debug_iphoneos-arm.deb
 Size: 145952
 MD5sum: a5834e24adfb33d87469769f9af3c2fa
 SHA1: b678794801ae9f8896088049762de2c82ca7f7c2
@@ -159,7 +159,7 @@ Maintainer: Tanner Bennett <tannerbennett@me.com>
 Installed-Size: 5328
 Pre-Depends: firmware (>= 9.0)
 Depends:
-Filename: ./debians/libflex_4.7.0~b4+rootful_iphoneos-arm.deb
+Filename: ./deb/libflex_4.7.0~b4+rootful_iphoneos-arm.deb
 Size: 1293686
 MD5sum: 604927c3c97d6f0f6277f8f2030c78c8
 SHA1: 3b7d851b2f800a4542b9fdaee4bbcbe9088738e3
@@ -179,7 +179,7 @@ Maintainer: Tanner Bennett <tannerbennett@me.com>
 Installed-Size: 5328
 Pre-Depends: firmware (>= 9.0)
 Depends:
-Filename: ./debians/libflex_4.7.0~b4+roothide_iphoneos-arm64e.deb
+Filename: ./deb/libflex_4.7.0~b4+roothide_iphoneos-arm64e.deb
 Size: 1296480
 MD5sum: 153952933dc4020330883a0264cfecb9
 SHA1: 47bd1e7ea28bae53d48cdf528ff7a2037404d344
@@ -199,7 +199,7 @@ Maintainer: Tanner Bennett <tannerbennett@me.com>
 Installed-Size: 5328
 Pre-Depends: firmware (>= 9.0)
 Depends:
-Filename: ./debians/libflex_4.7.0~b4+rootless_iphoneos-arm64.deb
+Filename: ./deb/libflex_4.7.0~b4+rootless_iphoneos-arm64.deb
 Size: 1294816
 MD5sum: a0a98ecefee50d30dc31727d9bf2c7e9
 SHA1: 68d6af2af14367394dfb690de7b066f8ccc778ac
@@ -218,7 +218,7 @@ Section: Tweaks
 Maintainer: Tanner Bennett <thepantsthief@me.com>
 Installed-Size: 1356
 Pre-Depends: firmware (>= 13.0)
-Filename: ./debians/libreflex_1.0.0+rootful_iphoneos-arm.deb
+Filename: ./deb/libreflex_1.0.0+rootful_iphoneos-arm.deb
 Size: 197172
 MD5sum: 52b77165957c863cde0ca8aff0f155e7
 SHA1: b6166c684c1b4c9bf53db22252b0c9429e72b175
@@ -237,7 +237,7 @@ Section: Tweaks
 Maintainer: Tanner Bennett <thepantsthief@me.com>
 Installed-Size: 1356
 Pre-Depends: firmware (>= 13.0)
-Filename: ./debians/libreflex_1.0.0+roothide_iphoneos-arm64e.deb
+Filename: ./deb/libreflex_1.0.0+roothide_iphoneos-arm64e.deb
 Size: 197134
 MD5sum: 0a4b151ae13a498248d11dfe162fad5c
 SHA1: 4a9778d3938b8f06f8ee0b382272b7398b12c7ab
@@ -256,7 +256,7 @@ Section: Tweaks
 Maintainer: Tanner Bennett <thepantsthief@me.com>
 Installed-Size: 1356
 Pre-Depends: firmware (>= 13.0)
-Filename: ./debians/libreflex_1.0.0+rootless_iphoneos-arm64.deb
+Filename: ./deb/libreflex_1.0.0+rootless_iphoneos-arm64.deb
 Size: 197174
 MD5sum: 57cdf6ffe804e0a0af5f125bbcaaebfd
 SHA1: 31e505a926412670d1d681fd29ad0fea5ab7d58f
@@ -275,7 +275,7 @@ Section: Tweaks
 Maintainer: codecolorist
 Installed-Size: 216
 Depends: mobilesubstrate
-Filename: ./debians/me.chichou.webinspect-global_0.2.0_iphoneos-arm.deb
+Filename: ./deb/me.chichou.webinspect-global_0.2.0_iphoneos-arm.deb
 Size: 5562
 MD5sum: 92ef2cc42b0f2196fba03a4e1dec0425
 SHA1: 7c2aae8cdd1b2dd232331e159c5620ee8ae48f86
@@ -292,7 +292,7 @@ Section: Development
 Maintainer: jjolano
 Installed-Size: 284
 Depends: firmware (>= 8.0), me.jjolano.fmwk.modulous, me.jjolano.fmwk.rootbridge
-Filename: ./debians/me.jjolano.fmwk.hookkit_1.0.15_iphoneos-arm.deb
+Filename: ./deb/me.jjolano.fmwk.hookkit_1.0.15_iphoneos-arm.deb
 Size: 24866
 MD5sum: f46d6a9a362ace848576ad4c7d0f5b48
 SHA1: 1c607c1ec6dffc5824731c98ba077abffdf9c3fa
@@ -310,7 +310,7 @@ Section: Development
 Maintainer: jjolano
 Installed-Size: 172
 Depends: firmware (>= 8.0), me.jjolano.fmwk.modulous, me.jjolano.fmwk.rootbridge
-Filename: ./debians/me.jjolano.fmwk.hookkit_1.0.15_iphoneos-arm64.deb
+Filename: ./deb/me.jjolano.fmwk.hookkit_1.0.15_iphoneos-arm64.deb
 Size: 13206
 MD5sum: 54052a5f6e3856075da7c42b689b1123
 SHA1: ea5b17453e78b439ab82c150a9923ec0bb77650c
@@ -328,7 +328,7 @@ Section: Development
 Maintainer: jjolano
 Installed-Size: 172
 Depends: firmware (>= 8.0), me.jjolano.fmwk.modulous, me.jjolano.fmwk.rootbridge
-Filename: ./debians/me.jjolano.fmwk.hookkit_1.0.15_iphoneos-arm64e.deb
+Filename: ./deb/me.jjolano.fmwk.hookkit_1.0.15_iphoneos-arm64e.deb
 Size: 12740
 MD5sum: 1c5c9af17f2a2496b45866a5aabb5d77
 SHA1: 48f010f48dc73d10ac98c1a2cfa7f8e1bb7e22d3
@@ -346,7 +346,7 @@ Section: Development
 Maintainer: jjolano
 Installed-Size: 280
 Depends: firmware (>= 8.0)
-Filename: ./debians/me.jjolano.fmwk.modulous_1.0.8_iphoneos-arm.deb
+Filename: ./deb/me.jjolano.fmwk.modulous_1.0.8_iphoneos-arm.deb
 Size: 10574
 MD5sum: ff4ec9bbbc8b1ddaea4136e13061ced4
 SHA1: bafa4b9591d7d767c0d8d578f6c0d7851a86d663
@@ -364,7 +364,7 @@ Section: Development
 Maintainer: jjolano
 Installed-Size: 168
 Depends: firmware (>= 8.0)
-Filename: ./debians/me.jjolano.fmwk.modulous_1.0.8_iphoneos-arm64.deb
+Filename: ./deb/me.jjolano.fmwk.modulous_1.0.8_iphoneos-arm64.deb
 Size: 6284
 MD5sum: e6a1f9d08bcf469eadb964b5678d9f0b
 SHA1: 50c025c5156993fb343770b2f37f60e5c1dc5194
@@ -382,7 +382,7 @@ Section: Development
 Maintainer: jjolano
 Installed-Size: 168
 Depends: firmware (>= 8.0)
-Filename: ./debians/me.jjolano.fmwk.modulous_1.0.8_iphoneos-arm64e.deb
+Filename: ./deb/me.jjolano.fmwk.modulous_1.0.8_iphoneos-arm64e.deb
 Size: 6220
 MD5sum: e1bbd83063b8741228eb4aa4e5dc271b
 SHA1: e7f1b31785707f60e1d24048c9e933478e9a3bd1
@@ -400,7 +400,7 @@ Section: Development
 Maintainer: jjolano
 Installed-Size: 280
 Depends: firmware (>= 8.0)
-Filename: ./debians/me.jjolano.fmwk.rootbridge_1.0.1_iphoneos-arm.deb
+Filename: ./deb/me.jjolano.fmwk.rootbridge_1.0.1_iphoneos-arm.deb
 Size: 6210
 MD5sum: 150802162bcddc4d156cdbd8f7691851
 SHA1: fd536ae87e444d37756ddb9d447ecc58e99e7202
@@ -418,7 +418,7 @@ Section: Development
 Maintainer: jjolano
 Installed-Size: 168
 Depends: firmware (>= 8.0)
-Filename: ./debians/me.jjolano.fmwk.rootbridge_1.0.1_iphoneos-arm64.deb
+Filename: ./deb/me.jjolano.fmwk.rootbridge_1.0.1_iphoneos-arm64.deb
 Size: 4098
 MD5sum: 1844c270a446ee65231bd27d8f2d2a3c
 SHA1: c9a497e4be9149348ceca9f36e433b950d236039
@@ -436,7 +436,7 @@ Section: Development
 Maintainer: jjolano
 Installed-Size: 168
 Depends: firmware (>= 8.0)
-Filename: ./debians/me.jjolano.fmwk.rootbridge_1.0.1_iphoneos-arm64e.deb
+Filename: ./deb/me.jjolano.fmwk.rootbridge_1.0.1_iphoneos-arm64e.deb
 Size: 4054
 MD5sum: 3e4123b2d75c70e53eccdb2afefa58f9
 SHA1: b339ac87251125b8586ba9993b8c54a79c11ba28
@@ -455,7 +455,7 @@ Maintainer: jjolano
 Installed-Size: 216
 Pre-Depends: me.jjolano.fmwk.hookkit
 Depends: firmware (>= 14.0)
-Filename: ./debians/me.jjolano.hkmodule.dobby_1.0.7_iphoneos-arm.deb
+Filename: ./deb/me.jjolano.hkmodule.dobby_1.0.7_iphoneos-arm.deb
 Size: 24276
 MD5sum: d02e5331faef80fce6d6966e8681f397
 SHA1: e4ae285b3cff52ca200f0da67e28f5f8a779358c
@@ -473,7 +473,7 @@ Maintainer: jjolano
 Installed-Size: 216
 Pre-Depends: me.jjolano.fmwk.hookkit
 Depends: firmware (>= 14.0)
-Filename: ./debians/me.jjolano.hkmodule.dobby_1.0.7_iphoneos-arm64.deb
+Filename: ./deb/me.jjolano.hkmodule.dobby_1.0.7_iphoneos-arm64.deb
 Size: 24316
 MD5sum: ba57186543ce0927a14eb9c7f9b67673
 SHA1: 4f05260d4ec3817f00b5386578f1826c77f349b6
@@ -491,7 +491,7 @@ Maintainer: jjolano
 Installed-Size: 216
 Pre-Depends: me.jjolano.fmwk.hookkit
 Depends: firmware (>= 14.0)
-Filename: ./debians/me.jjolano.hkmodule.dobby_1.0.7_iphoneos-arm64e.deb
+Filename: ./deb/me.jjolano.hkmodule.dobby_1.0.7_iphoneos-arm64e.deb
 Size: 24240
 MD5sum: 608869f9108c45b81adc5319063f982e
 SHA1: 811e5423fd1e5b741eb9e6a238a290140b782586
@@ -510,7 +510,7 @@ Installed-Size: 168
 Provides: me.jjolano.hkmodule.substrate
 Pre-Depends: me.jjolano.fmwk.hookkit
 Depends: ellekit
-Filename: ./debians/me.jjolano.hkmodule.ellekit_1.0.7_iphoneos-arm.deb
+Filename: ./deb/me.jjolano.hkmodule.ellekit_1.0.7_iphoneos-arm.deb
 Size: 5180
 MD5sum: dd926721444e6cbfdeebcb2e3a32f9ef
 SHA1: 7c28dc1ed9a3bfa3632bbfc25b3196ff3ea84130
@@ -529,7 +529,7 @@ Installed-Size: 168
 Provides: me.jjolano.hkmodule.substrate
 Pre-Depends: me.jjolano.fmwk.hookkit
 Depends: ellekit
-Filename: ./debians/me.jjolano.hkmodule.ellekit_1.0.7_iphoneos-arm64.deb
+Filename: ./deb/me.jjolano.hkmodule.ellekit_1.0.7_iphoneos-arm64.deb
 Size: 5190
 MD5sum: 50a99c50f4cac2072350254011424ca8
 SHA1: 906f4ec0f2927b0ce7247879be441bb419414f2f
@@ -548,7 +548,7 @@ Installed-Size: 168
 Provides: me.jjolano.hkmodule.substrate
 Pre-Depends: me.jjolano.fmwk.hookkit
 Depends: ellekit
-Filename: ./debians/me.jjolano.hkmodule.ellekit_1.0.7_iphoneos-arm64e.deb
+Filename: ./deb/me.jjolano.hkmodule.ellekit_1.0.7_iphoneos-arm64e.deb
 Size: 5192
 MD5sum: c1cfdb3b26b60b8d2615d37bca244f04
 SHA1: 6e1dbec295be7bf538e080a783bf3560126f1fa3
@@ -565,7 +565,7 @@ Section: HookKit (Modules)
 Maintainer: jjolano
 Installed-Size: 284
 Pre-Depends: me.jjolano.fmwk.hookkit
-Filename: ./debians/me.jjolano.hkmodule.fishhook_1.0.8_iphoneos-arm.deb
+Filename: ./deb/me.jjolano.hkmodule.fishhook_1.0.8_iphoneos-arm.deb
 Size: 10818
 MD5sum: 7d8f220ebe78c9b02881d29443af4ec6
 SHA1: 2b8000a19649aa512780a09480bed5ecca1358d1
@@ -582,7 +582,7 @@ Section: HookKit (Modules)
 Maintainer: jjolano
 Installed-Size: 172
 Pre-Depends: me.jjolano.fmwk.hookkit
-Filename: ./debians/me.jjolano.hkmodule.fishhook_1.0.8_iphoneos-arm64.deb
+Filename: ./deb/me.jjolano.hkmodule.fishhook_1.0.8_iphoneos-arm64.deb
 Size: 6710
 MD5sum: a095cd95ccd9cbcb761f2b04f377c07b
 SHA1: d8c159eeef85a5486cc1dadcb6646f335260adfc
@@ -599,7 +599,7 @@ Section: HookKit (Modules)
 Maintainer: jjolano
 Installed-Size: 172
 Pre-Depends: me.jjolano.fmwk.hookkit
-Filename: ./debians/me.jjolano.hkmodule.fishhook_1.0.8_iphoneos-arm64e.deb
+Filename: ./deb/me.jjolano.hkmodule.fishhook_1.0.8_iphoneos-arm64e.deb
 Size: 6658
 MD5sum: 223e953f2dca2e5628e1ef5e8c4d3ea5
 SHA1: 76de807aef27f839fa1c8bd6b2315247adafab91
@@ -618,7 +618,7 @@ Installed-Size: 152
 Provides: me.jjolano.hkmodule.substrate
 Pre-Depends: me.jjolano.fmwk.hookkit
 Depends: org.coolstar.libhooker (>= 1.0.0)
-Filename: ./debians/me.jjolano.hkmodule.libhooker_1.0.7_iphoneos-arm.deb
+Filename: ./deb/me.jjolano.hkmodule.libhooker_1.0.7_iphoneos-arm.deb
 Size: 5702
 MD5sum: c16675765250dd2cc7f4e3e29f50b3ee
 SHA1: fc99bd33cfae3efe0d87fb6bbcc933778f62a351
@@ -637,7 +637,7 @@ Installed-Size: 168
 Provides: me.jjolano.hkmodule.substrate
 Pre-Depends: me.jjolano.fmwk.hookkit
 Depends: org.coolstar.libhooker (>= 1.0.0)
-Filename: ./debians/me.jjolano.hkmodule.libhooker_1.0.7_iphoneos-arm64.deb
+Filename: ./deb/me.jjolano.hkmodule.libhooker_1.0.7_iphoneos-arm64.deb
 Size: 5256
 MD5sum: e015f417112a49ecce54721bd610b0e3
 SHA1: ff1ca22b92b6e7e0c8f1ae1d189443fdb350dc5c
@@ -656,7 +656,7 @@ Installed-Size: 168
 Provides: me.jjolano.hkmodule.substrate
 Pre-Depends: me.jjolano.fmwk.hookkit
 Depends: org.coolstar.libhooker (>= 1.0.0)
-Filename: ./debians/me.jjolano.hkmodule.libhooker_1.0.7_iphoneos-arm64e.deb
+Filename: ./deb/me.jjolano.hkmodule.libhooker_1.0.7_iphoneos-arm64e.deb
 Size: 5204
 MD5sum: 0462799f8eded4875f72717ba10da91a
 SHA1: 117f2323e6612b7500491309e8cfb1fc6e640dc1
@@ -675,7 +675,7 @@ Installed-Size: 152
 Provides: me.jjolano.hkmodule.substrate
 Pre-Depends: me.jjolano.fmwk.hookkit
 Depends: com.ex.substitute | com.ex.libsubstitute | science.xnu.substitute, mobilesubstrate
-Filename: ./debians/me.jjolano.hkmodule.substitute_1.0.10_iphoneos-arm.deb
+Filename: ./deb/me.jjolano.hkmodule.substitute_1.0.10_iphoneos-arm.deb
 Size: 5506
 MD5sum: bd24c32767729ef8f27bb37406710cf6
 SHA1: bb11d78fcf1509d6e2162b74afea978c9dee55af
@@ -694,7 +694,7 @@ Installed-Size: 168
 Provides: me.jjolano.hkmodule.substrate
 Pre-Depends: me.jjolano.fmwk.hookkit
 Depends: com.ex.substitute | com.ex.libsubstitute | science.xnu.substitute, mobilesubstrate
-Filename: ./debians/me.jjolano.hkmodule.substitute_1.0.10_iphoneos-arm64.deb
+Filename: ./deb/me.jjolano.hkmodule.substitute_1.0.10_iphoneos-arm64.deb
 Size: 5054
 MD5sum: ebb9aa00b4652b8a488da8ac8a064abd
 SHA1: b421c63d887a4b7f97e191d031105d7315cbeeda
@@ -713,7 +713,7 @@ Installed-Size: 168
 Provides: me.jjolano.hkmodule.substrate
 Pre-Depends: me.jjolano.fmwk.hookkit
 Depends: com.ex.substitute | com.ex.libsubstitute | science.xnu.substitute, mobilesubstrate
-Filename: ./debians/me.jjolano.hkmodule.substitute_1.0.10_iphoneos-arm64e.deb
+Filename: ./deb/me.jjolano.hkmodule.substitute_1.0.10_iphoneos-arm64e.deb
 Size: 5008
 MD5sum: b4a3eb5ab4b593ce5bfd0139627c0ff9
 SHA1: b0048307ae7b5477a5a3abcf2d54fc69b12b4d88
@@ -731,7 +731,7 @@ Maintainer: jjolano
 Installed-Size: 280
 Pre-Depends: me.jjolano.fmwk.hookkit
 Depends: mobilesubstrate
-Filename: ./debians/me.jjolano.hkmodule.substrate_1.0.8_iphoneos-arm.deb
+Filename: ./deb/me.jjolano.hkmodule.substrate_1.0.8_iphoneos-arm.deb
 Size: 6206
 MD5sum: 2eba20ff0adda9aae820838072d064b0
 SHA1: 3434c0c660bd104f11e54f33f5fb8558af1338b8
@@ -749,7 +749,7 @@ Maintainer: jjolano
 Installed-Size: 168
 Pre-Depends: me.jjolano.fmwk.hookkit
 Depends: mobilesubstrate
-Filename: ./debians/me.jjolano.hkmodule.substrate_1.0.8_iphoneos-arm64.deb
+Filename: ./deb/me.jjolano.hkmodule.substrate_1.0.8_iphoneos-arm64.deb
 Size: 4182
 MD5sum: 35bcad10fd2feb5e3513f8632a31ade9
 SHA1: f36694f3efb7ddb6406ace526a89b511a486bb56
@@ -767,7 +767,7 @@ Maintainer: jjolano
 Installed-Size: 168
 Pre-Depends: me.jjolano.fmwk.hookkit
 Depends: mobilesubstrate
-Filename: ./debians/me.jjolano.hkmodule.substrate_1.0.8_iphoneos-arm64e.deb
+Filename: ./deb/me.jjolano.hkmodule.substrate_1.0.8_iphoneos-arm64e.deb
 Size: 4134
 MD5sum: 0193cb20449cea3518044b88740953d7
 SHA1: 23a147b6511f9b5d050cb2adfbe0aee2246cbf16
@@ -790,7 +790,7 @@ Recommends: mobilesubstrate, preferenceloader, me.jjolano.hkmodule.fishhook
 Suggests: com.ps.injectionfoundation
 Conflicts: me.jjolano.shadow.beta, me.jjolano.shadow.legacy
 Replaces: me.jjolano.shadow.beta
-Filename: ./debians/me.jjolano.shadow_3.7.6~b1_iphoneos-arm.deb
+Filename: ./deb/me.jjolano.shadow_3.7.6~b1_iphoneos-arm.deb
 Size: 163102
 MD5sum: fb740a01c57f4f405ed7df29a62f8e29
 SHA1: 9439e4745c1e922504bc2121f3e3aa25e1a7e929
@@ -813,7 +813,7 @@ Recommends: mobilesubstrate, preferenceloader, me.jjolano.hkmodule.fishhook
 Suggests: com.ps.injectionfoundation
 Conflicts: me.jjolano.shadow.beta, me.jjolano.shadow.legacy
 Replaces: me.jjolano.shadow.beta
-Filename: ./debians/me.jjolano.shadow_3.7.6~b1_iphoneos-arm64.deb
+Filename: ./deb/me.jjolano.shadow_3.7.6~b1_iphoneos-arm64.deb
 Size: 104478
 MD5sum: b4caaefe84c7c70355c74f7c2e819c4f
 SHA1: 09f86d0111458325a1f5b7058324a75a8157dd55
@@ -836,7 +836,7 @@ Recommends: mobilesubstrate, preferenceloader, me.jjolano.hkmodule.fishhook
 Suggests: com.ps.injectionfoundation
 Conflicts: me.jjolano.shadow.beta, me.jjolano.shadow.legacy
 Replaces: me.jjolano.shadow.beta
-Filename: ./debians/me.jjolano.shadow_3.7.6~b1_iphoneos-arm64e.deb
+Filename: ./deb/me.jjolano.shadow_3.7.6~b1_iphoneos-arm64e.deb
 Size: 104130
 MD5sum: 253d151699592fab383cd18e54612032
 SHA1: eb089c200d49d3ae0d91f004b7e6ca1c2b43bde8
@@ -853,7 +853,7 @@ Section: Tweaks
 Maintainer: misty
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: ./debians/moe.misty.bilidownload_0.0.2_iphoneos-arm.deb
+Filename: ./deb/moe.misty.bilidownload_0.0.2_iphoneos-arm.deb
 Size: 7234
 MD5sum: 6172eababb72078edba4c7a8c54bbf77
 SHA1: 9ed19263a983058750c182dec2d2cbcb59e52a64
@@ -869,7 +869,7 @@ Version: 0.0.1-19+debug
 Section: System
 Maintainer: misty
 Installed-Size: 364
-Filename: ./debians/moe.misty.bindfsmount_0.0.1-19+debug_iphoneos-arm.deb
+Filename: ./deb/moe.misty.bindfsmount_0.0.1-19+debug_iphoneos-arm.deb
 Size: 7916
 MD5sum: 0c23ec3aaf9c74e086f50b0c788cc3d9
 SHA1: 1aa86d1505f33cf2b65bbaf5bb8f8dc5aacec2e0
@@ -886,7 +886,7 @@ Version: 0.0.1-19
 Section: System
 Maintainer: misty
 Installed-Size: 412
-Filename: ./debians/moe.misty.bindfsmount_0.0.1-19_iphoneos-arm.deb
+Filename: ./deb/moe.misty.bindfsmount_0.0.1-19_iphoneos-arm.deb
 Size: 7002
 MD5sum: 96c8992e1660369a76589f48c6989bcb
 SHA1: 0644aefe0c030be48b33d428e57758902c426733
@@ -903,7 +903,7 @@ Version: 0.0.1
 Section: System
 Maintainer: misty
 Installed-Size: 264
-Filename: ./debians/moe.misty.fouldecrypt_0.0.1_iphoneos-arm.deb
+Filename: ./deb/moe.misty.fouldecrypt_0.0.1_iphoneos-arm.deb
 Size: 6242
 MD5sum: 0e62be4416354701e407bb8899e510bd
 SHA1: a3d998385dcfbb2b3b74e932715a3d9e88be9dfd
@@ -921,7 +921,7 @@ Section: System
 Maintainer: misty
 Installed-Size: 2400
 Depends: libkrw (>= 1.0.0)
-Filename: ./debians/moe.misty.fouldecrypt_0.0.2-3+debug_iphoneos-arm.deb
+Filename: ./deb/moe.misty.fouldecrypt_0.0.2-3+debug_iphoneos-arm.deb
 Size: 281560
 MD5sum: 5e92f58843c5dd0f85dba8981224de6c
 SHA1: bce2220c464708f6a9e5addcaf588caf4db6c898
@@ -939,7 +939,7 @@ Section: System
 Maintainer: misty
 Installed-Size: 664
 Depends: libkrw (>= 1.0.0)
-Filename: ./debians/moe.misty.fouldecrypt_0.0.2_iphoneos-arm.deb
+Filename: ./deb/moe.misty.fouldecrypt_0.0.2_iphoneos-arm.deb
 Size: 71436
 MD5sum: 72d52fd377592793ed147a47f9397fd1
 SHA1: 896de285ec9f892e4d19d41591f5a5d77228a934
@@ -957,7 +957,7 @@ Section: System
 Maintainer: misty
 Installed-Size: 768
 Depends: libkrw (>= 1.0.0)
-Filename: ./debians/moe.misty.fouldecrypt_0.0.3_iphoneos-arm.deb
+Filename: ./deb/moe.misty.fouldecrypt_0.0.3_iphoneos-arm.deb
 Size: 80526
 MD5sum: 00605d726f99d479f29cf2e0fcc0ddbe
 SHA1: fd468e8403ecc08e0adbbbec760d45d1a332b8ef
@@ -978,7 +978,7 @@ Pre-Depends: firmware (>= 12.0), firmware (<< 15.0)
 Depends: mobilesubstrate, preferenceloader
 Conflicts: jp.akusio.kernbypass, com.apple.memecity
 Replaces: jp.akusio.kernbypass-unofficial
-Filename: ./debians/moe.misty.kernbypass14_0.0.6_iphoneos-arm.deb
+Filename: ./deb/moe.misty.kernbypass14_0.0.6_iphoneos-arm.deb
 Size: 94066
 MD5sum: 07178316e8f2efd18625285277adaa89
 SHA1: 50fd76d031d2966c676ede8d86e90fafeb94e8b8
@@ -998,7 +998,7 @@ Section: Tweaks
 Maintainer: misty
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/moe.misty.onedrivebetter_1.0_iphoneos-arm.deb
+Filename: ./deb/moe.misty.onedrivebetter_1.0_iphoneos-arm.deb
 Size: 4336
 MD5sum: 1a1630fa11acf0cf922515f15f981479
 SHA1: 396fd5ba3fc8d14348a341f8cbafacf91a8fb674
@@ -1015,7 +1015,7 @@ Section: Tweaks
 Maintainer: misty
 Installed-Size: 216
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/moe.misty.sifunlockjp_0.0.1-15+debug_iphoneos-arm.deb
+Filename: ./deb/moe.misty.sifunlockjp_0.0.1-15+debug_iphoneos-arm.deb
 Size: 25792
 MD5sum: 250fddf24d40dc960587d78702a46cb3
 SHA1: be228639fb2263f9f4639c620d65b5f95eba7c59
@@ -1032,7 +1032,7 @@ Section: Tweaks
 Maintainer: misty
 Installed-Size: 144
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/moe.misty.sifunlockjp_sifas-jp-843638800_iphoneos-arm.deb
+Filename: ./deb/moe.misty.sifunlockjp_sifas-jp-843638800_iphoneos-arm.deb
 Size: 15626
 MD5sum: 51301438028578bc7723c4a59843e2ab
 SHA1: 93a4ab7283b7762b6b81363b59c35f96d568855c
@@ -1049,7 +1049,7 @@ Section: Tweaks
 Maintainer: misty
 Installed-Size: 148
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/moe.misty.sifunlockjp_sifas-jp-844085930_iphoneos-arm.deb
+Filename: ./deb/moe.misty.sifunlockjp_sifas-jp-844085930_iphoneos-arm.deb
 Size: 16334
 MD5sum: 02988721e11035179a4e24d524a67191
 SHA1: 92d6e9c0ca3f1589f1858d0f59283b05670e0752
@@ -1066,7 +1066,7 @@ Section: Tweaks
 Maintainer: misty
 Installed-Size: 148
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/moe.misty.sifunlockjp_sifas-jp-845654831_iphoneos-arm.deb
+Filename: ./deb/moe.misty.sifunlockjp_sifas-jp-845654831_iphoneos-arm.deb
 Size: 17196
 MD5sum: a99818c79435d959dfc0eb29dc678301
 SHA1: 6c451870b6003cd65b0cea7222548be2d2cfd528
@@ -1084,7 +1084,7 @@ Maintainer: NyaMisty <misty@misty.moe>
 Installed-Size: 196
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.nablac0d3.sslkillswitch2
-Filename: ./debians/moe.misty.sslkillswitch3_1.4+rootful_iphoneos-arm.deb
+Filename: ./deb/moe.misty.sslkillswitch3_1.4+rootful_iphoneos-arm.deb
 Size: 17186
 MD5sum: 9a524afce105c80fac035da8da5467d7
 SHA1: cc7e6fa34194920a5111ef14d3f4c2df167a4409
@@ -1102,7 +1102,7 @@ Maintainer: NyaMisty <misty@misty.moe>
 Installed-Size: 196
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.nablac0d3.sslkillswitch2
-Filename: ./debians/moe.misty.sslkillswitch3_1.4+rootless_iphoneos-arm64.deb
+Filename: ./deb/moe.misty.sslkillswitch3_1.4+rootless_iphoneos-arm64.deb
 Size: 17230
 MD5sum: a99622b255492cec0eb44acc779c31a0
 SHA1: 5befc45402b72cbc0cb985c2665e7e203d7938ad
@@ -1120,7 +1120,7 @@ Maintainer: NyaMisty <misty@misty.moe>
 Installed-Size: 196
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.nablac0d3.sslkillswitch2
-Filename: ./debians/moe.misty.sslkillswitch3_1.5+rootful_iphoneos-arm.deb
+Filename: ./deb/moe.misty.sslkillswitch3_1.5+rootful_iphoneos-arm.deb
 Size: 17132
 MD5sum: caf6934825b9bed3f268c98e741d0318
 SHA1: 95a90e5e819d7a3b46e27774333f6618f6c71813
@@ -1138,7 +1138,7 @@ Maintainer: NyaMisty <misty@misty.moe>
 Installed-Size: 196
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.nablac0d3.sslkillswitch2
-Filename: ./debians/moe.misty.sslkillswitch3_1.5+roothide_iphoneos-arm64e.deb
+Filename: ./deb/moe.misty.sslkillswitch3_1.5+roothide_iphoneos-arm64e.deb
 Size: 17154
 MD5sum: 15b99bc87ddf4cb188220c695bd42296
 SHA1: 5c02c0758cb4895de61b4539cb90d4bf7667ef42
@@ -1156,7 +1156,7 @@ Maintainer: NyaMisty <misty@misty.moe>
 Installed-Size: 196
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.nablac0d3.sslkillswitch2
-Filename: ./debians/moe.misty.sslkillswitch3_1.5+rootless_iphoneos-arm64.deb
+Filename: ./deb/moe.misty.sslkillswitch3_1.5+rootless_iphoneos-arm64.deb
 Size: 17240
 MD5sum: ce415723521fe7c84f4a8256dc3519eb
 SHA1: 415a9c65243ad76dde1d909df68cdc00a759c02b
@@ -1174,7 +1174,7 @@ Maintainer: NyaMisty <misty@misty.moe>
 Installed-Size: 196
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.nablac0d3.sslkillswitch2
-Filename: ./debians/moe.misty.sslkillswitch3_1.5.1+rootful_iphoneos-arm.deb
+Filename: ./deb/moe.misty.sslkillswitch3_1.5.1+rootful_iphoneos-arm.deb
 Size: 17144
 MD5sum: c3e6d496e188a8db6608c8e1468cd97d
 SHA1: 4c70b95a5128f43b7e7d0b329225f6f603ab30c0
@@ -1192,7 +1192,7 @@ Maintainer: NyaMisty <misty@misty.moe>
 Installed-Size: 196
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.nablac0d3.sslkillswitch2
-Filename: ./debians/moe.misty.sslkillswitch3_1.5.1+roothide_iphoneos-arm64e.deb
+Filename: ./deb/moe.misty.sslkillswitch3_1.5.1+roothide_iphoneos-arm64e.deb
 Size: 17232
 MD5sum: 78e600fe6c3da64b517fefb866f93538
 SHA1: c4a7a6bdc01d6e5d03020d41a0fae38652c0e72d
@@ -1210,7 +1210,7 @@ Maintainer: NyaMisty <misty@misty.moe>
 Installed-Size: 196
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.nablac0d3.sslkillswitch2
-Filename: ./debians/moe.misty.sslkillswitch3_1.5.1+rootless_iphoneos-arm64.deb
+Filename: ./deb/moe.misty.sslkillswitch3_1.5.1+rootless_iphoneos-arm64.deb
 Size: 17234
 MD5sum: 9feb432133c0df263558b754a1e3e5f7
 SHA1: ae3a9bbce6222dc00af6abee3a4a854db7c512b2
@@ -1227,7 +1227,7 @@ Section: Tweaks
 Maintainer: misty
 Installed-Size: 140
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/moe.misty.surge4-advanced_0.0.1_iphoneos-arm.deb
+Filename: ./deb/moe.misty.surge4-advanced_0.0.1_iphoneos-arm.deb
 Size: 10648
 MD5sum: b965dea8ba7be0313e81c3ea0ef91144
 SHA1: 7faac9b057c4ffabe6f431dfab5051affc0ed308
@@ -1244,7 +1244,7 @@ Section: Tweaks
 Maintainer: misty
 Installed-Size: 140
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/moe.misty.surge4-advanced_0.0.2_iphoneos-arm.deb
+Filename: ./deb/moe.misty.surge4-advanced_0.0.2_iphoneos-arm.deb
 Size: 11048
 MD5sum: 3c7f5495ca1c6c3501f2e097332894b8
 SHA1: 9b72d85376c8abfa07805a8d86411b087c58a6eb
@@ -1261,7 +1261,7 @@ Section: Tweaks
 Maintainer: misty
 Installed-Size: 220
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/moe.misty.surge4-advanced_0.0.3+rootful_iphoneos-arm.deb
+Filename: ./deb/moe.misty.surge4-advanced_0.0.3+rootful_iphoneos-arm.deb
 Size: 14900
 MD5sum: b8fe174cba4a15a2e3f986e8b1bb6f1b
 SHA1: afbac3af9db5666f5ffa928c6c8722fe125c4b18
@@ -1278,7 +1278,7 @@ Section: Tweaks
 Maintainer: misty
 Installed-Size: 220
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/moe.misty.surge4-advanced_0.0.3+rootless_iphoneos-arm64.deb
+Filename: ./deb/moe.misty.surge4-advanced_0.0.3+rootless_iphoneos-arm64.deb
 Size: 15018
 MD5sum: dfbdbf90a2225d46be5c7944b6a6ffec
 SHA1: 9db95a3a8905f612984b57a5f1439707ba9ec17b
@@ -1295,7 +1295,7 @@ Section: Tweaks
 Maintainer: misty
 Installed-Size: 220
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/moe.misty.surge4-advanced_0.0.4+rootful_iphoneos-arm.deb
+Filename: ./deb/moe.misty.surge4-advanced_0.0.4+rootful_iphoneos-arm.deb
 Size: 15180
 MD5sum: c10a1472eda1f8732544ed905b4d230a
 SHA1: 34a46b005c1c8892c389c6bd2efadaa1597f4e8b
@@ -1312,7 +1312,7 @@ Section: Tweaks
 Maintainer: misty
 Installed-Size: 220
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/moe.misty.surge4-advanced_0.0.4+roothide_iphoneos-arm64e.deb
+Filename: ./deb/moe.misty.surge4-advanced_0.0.4+roothide_iphoneos-arm64e.deb
 Size: 15180
 MD5sum: 9697b4d214bca5ec0b11d095437e152a
 SHA1: c99e2d73a26f72e08093e70ca1619fa73d111899
@@ -1329,7 +1329,7 @@ Section: Tweaks
 Maintainer: misty
 Installed-Size: 220
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/moe.misty.surge4-advanced_0.0.4+rootless_iphoneos-arm64.deb
+Filename: ./deb/moe.misty.surge4-advanced_0.0.4+rootless_iphoneos-arm64.deb
 Size: 15282
 MD5sum: 57b52edf92cebc6bd8ec8bdf72183792
 SHA1: 89059d3d8a8d8dcc3981f83d2055011c424acd74
